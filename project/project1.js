@@ -102,11 +102,3 @@ function openCard(index) {
     displayCards(cards);
 
 }
-
-// function start() {
-//     cards.forEach(index => {
-//         cards[index].status = "opened";
-//     })
-// }
-
-// setTimeout(start, 5000);
