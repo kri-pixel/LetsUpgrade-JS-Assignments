@@ -95,7 +95,7 @@ function openCard(index) {
             val1 = null;
             val2 = null;
         } else {
-            alert('GAME OVER');
+            alert('YOU GUESS IT WRONG, GAME OVER');
             location.reload();
         }
     }
